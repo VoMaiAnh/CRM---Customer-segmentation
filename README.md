@@ -1,8 +1,8 @@
-  1. DATASET  
+**  1. DATASET  **
 Marketing Campaign. Boost the profit of a marketing campaign: https://www.kaggle.com/rodsaldanha/arketing-campaign  
-  2. CONTEXT  
+**  2. CONTEXT ** 
 This project is an evaluation assignment for the Customer Relationship Management class within the Master's program in Data Mining and Business Intelligence 2023-2024 at Complutense University of Madrid. The whole project is performed by a group of 4 students and this notebook is just a part of the analysis carried out in Python by one team member. This dataset was originally created to predict who will respond to a product or service offer. A response model can provide a significant boost to the efficiency of a marketing campaign by increasing responses or reducing expenditures. In our case, we are going to leverage this dataset to gain hidden insight of the customers.  
-  3. OBJECTIVES
+**  3. OBJECTIVES**
 - MAIN OBJECTIVE: Definition what typologies of customers there are in this company and how to get to sell more to each type.  
 - SECONDARY OBJECTIVES: Application of the techniques seen in class:  
     + Exploratory analysis of the data.
