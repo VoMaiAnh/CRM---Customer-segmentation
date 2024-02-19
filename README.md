@@ -5,11 +5,10 @@ This project is an evaluation assignment for the Customer Relationship Managemen
   3. OBJECTIVES
 - MAIN OBJECTIVE: Definition what typologies of customers there are in this company and how to get to sell more to each type.  
 - SECONDARY OBJECTIVES: Application of the techniques seen in class:  
-
-Exploratory analysis of the data.  
-Detection and treatment of outliers and missing variables.  
-Creation of new variables that you consider necessary for the analysis.  
-Dimension reduction for visualization and selection of subsequent algorithms.  
-Clustering (segmentation) of customers.  
-Analysis of associations  
+    + Exploratory analysis of the data.
+    + Detection and treatment of outliers and missing variables.
+    + Creation of new variables that you consider necessary for the analysis.
+    + Dimension reduction for visualization and selection of subsequent algorithms.
+    + Clustering (segmentation) of customers.
+    + Analysis of associations  
 The key point is the business interpretation of this exercise, which be taken into consideration while selecting variables and technique.  
